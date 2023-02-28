@@ -5,9 +5,12 @@ const Card = (book) => {
 
     return (
         <div className="Card">
-            <p className="image">{book.image}</p>
-            <p className="name">{book.name}</p>
-            <p className="author">{book.author}</p>
+            <img className="image"
+                src={book.image}
+                alt={book.name}
+            />
+            <h3 className="name">{book.name}</h3>
+            <h4 className="author">{book.author}</h4>
             <button className="website">{book.website}</button>
         </div>
 
