@@ -1,16 +1,22 @@
 .Card {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    margin: 30px 100px;
+    margin: 30px 75px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    max-width: 275px;
+    width: 275px;
+    justify-content:space-around;
+    padding: 0 0 8px 0;
+    color: #28262C;
+    background-color: #F6F7EB;
   }
 
   .image {
-    max-width: 275px;
-    height: auto;
+    width: 275px;
+    height: 418px;
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid #000000;
   }
 
   .name {
@@ -23,4 +29,5 @@
 
   .website {
     margin: 10px 80px;
+    background-color: #14248A;
   }
