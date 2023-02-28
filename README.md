@@ -10,8 +10,8 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/2webwIEoK3.gif' title='Video Walkthrough' width=400 alt='Video Walkthrough'>
+[GIF Walkthrough](http://g.recordit.co/2webwIEoK3.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with RecordIt
