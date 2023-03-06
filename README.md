@@ -26,10 +26,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://g.recordit.co/2webwIEoK3.gif' title='Video Walkthrough' width=400 alt='Video Walkthrough'>
+<img src='http://g.recordit.co/2webwIEoK3.gif' title='Video Walkthrough' width='500px' alt='Video Walkthrough' />
+
 [GIF Walkthrough](http://g.recordit.co/2webwIEoK3.gif)
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with RecordIt
 
 ## Notes
